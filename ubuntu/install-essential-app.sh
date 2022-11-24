@@ -8,7 +8,8 @@ sudo apt install python3 -y
 sudo apt install nvm -y
 sudo apt install gimp -y
 sudo apt install inkscape -y
-sudo apt install dotnet7
+sudo apt install dotnet6 -y
+sudo apt install preload -y
 
 
 
