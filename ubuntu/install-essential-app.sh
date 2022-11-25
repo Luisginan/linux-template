@@ -10,6 +10,10 @@ sudo apt install gimp -y
 sudo apt install inkscape -y
 sudo apt install dotnet6 -y
 sudo apt install preload -y
+sudo apt install grub-customizer -y
+sudo apt install gparted -y
+sudo apt install gradle -y
+sudo apt install maven -y
 
 
 
