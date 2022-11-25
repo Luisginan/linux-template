@@ -14,6 +14,7 @@ sudo apt install grub-customizer -y
 sudo apt install gparted -y
 sudo apt install gradle -y
 sudo apt install maven -y
+sudo apt install timeshift -y
 
 
 
