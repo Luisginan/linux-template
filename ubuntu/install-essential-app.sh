@@ -16,6 +16,7 @@ sudo apt install gradle -y
 sudo apt install maven -y
 sudo apt install timeshift -y
 sudo apt install caffeine -y
+sudo apt install neofetch -y
 
 
 
