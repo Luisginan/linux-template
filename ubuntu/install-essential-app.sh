@@ -18,12 +18,10 @@ sudo apt install timeshift -y
 sudo apt install caffeine -y
 sudo apt install neofetch -y
 sudo apt install tilix -y
+sudo apt install htop -y
 
 sudo apt install flatpak -y
 sudo add-apt-repository ppa:flatpak/stable
-
-
-
 
 
 sudo apt install snapd -y
