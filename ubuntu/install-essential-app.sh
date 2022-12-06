@@ -19,6 +19,7 @@ sudo apt install caffeine -y
 sudo apt install neofetch -y
 sudo apt install tilix -y
 sudo apt install htop -y
+sudo apt install zsh -y
 
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
 export NVM_DIR="$HOME/.nvm"
@@ -40,7 +41,7 @@ sudo add-apt-repository ppa:flatpak/stable
 sudo apt install snapd -y
 sudo snap install postman 
 sudo snap install code --classic 
-sudo snapt install snap-store
+sudo snap install snap-store
 sudo snap install intellij-idea-ultimate --classic
 sudo snap install dbeaver-ce
 
