@@ -19,7 +19,9 @@ sudo apt install caffeine -y
 sudo apt install neofetch -y
 sudo apt install tilix -y
 sudo apt install htop -y
+sudo apt install btop -y
 sudo apt install zsh -y
+sudo apt install yakuake -y
 
 wget -O  ~/Downloads/chrome.deb https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo apt install ~/Downloads/chrome.deb
