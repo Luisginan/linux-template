@@ -47,4 +47,5 @@ sudo snap install code --classic
 sudo snap install snap-store
 sudo snap install intellij-idea-ultimate --classic
 sudo snap install dbeaver-ce
+cp ./zshrc ~/.zshrc
 

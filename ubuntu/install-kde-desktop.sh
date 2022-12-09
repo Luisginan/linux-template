@@ -1,2 +1,2 @@
  sudo apt update && sudo apt upgrade -y
- sudo apt install kde-desktop -y
+ sudo apt install kde-full -y
