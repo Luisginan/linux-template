@@ -22,6 +22,9 @@ sudo apt install htop -y
 sudo apt install btop -y
 sudo apt install zsh -y
 sudo apt install yakuake -y
+sudo apt install mc -y
+sudo apt install youtube-dl -y
+sudo apt install jq -y
 
 wget -O  ~/Downloads/chrome.deb https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo apt install ~/Downloads/chrome.deb
