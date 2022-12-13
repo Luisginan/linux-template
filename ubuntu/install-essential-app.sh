@@ -54,3 +54,6 @@ sudo snap install intellij-idea-ultimate --classic
 sudo snap install dbeaver-ce
 cp ./zshrc ~/.zshrc
 
+curl -L git.io/antigen > .antigen.zsh
+# or use git.io/antigen-nightly for the latest version
+
