@@ -52,5 +52,8 @@ sudo snap install code --classic
 sudo snap install snap-store
 sudo snap install intellij-idea-ultimate --classic
 sudo snap install dbeaver-ce
+curl -L git.io/antigen > .antigen.zsh
 cp ./zshrc ~/.zshrc
+chsh -s $(which zsh)
+
 
