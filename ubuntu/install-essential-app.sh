@@ -57,3 +57,6 @@ cp ./zshrc ~/.zshrc
 chsh -s $(which zsh)
 
 
+curl -L git.io/antigen > .antigen.zsh
+# or use git.io/antigen-nightly for the latest version
+
